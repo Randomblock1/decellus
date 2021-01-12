@@ -1,0 +1,23 @@
+{
+  "name": "Decellus",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Skip Acellus lesson videos",
+  "homepage_url": "https://randomblock1.com",
+  "icons": {
+    "128": "icon.png"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  },
+  "browser_action": {
+    "default_title": "Skip video!"
+  },
+  "permissions": [
+    "https://*.acellus.com/*",
+    "http://*.acellus.com/*"
+  ]
+}
