@@ -1,7 +1,9 @@
 # decellus
 Skip Acellus video lessons with a Chrome Extension (click logo for demo)
 
-[![icon](icon.png)](yeet.mp4)
+![icon](icon.png)
+
+![video](yeet.gif)
 
 ## How to Install
 
