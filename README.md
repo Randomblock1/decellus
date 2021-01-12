@@ -1,5 +1,5 @@
 # decellus
-Skip Acellus video lessons with a Chrome Extension (click logo for demo)
+Skip Acellus video lessons with a Chrome Extension
 
 ![icon](icon.png)
 
