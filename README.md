@@ -20,3 +20,7 @@ Share this URL with your friends. Nice and fancy short URL, eh? https://git.io/d
 ## Usage
 
 Click the Decellus icon in your Extensions menu. Optionally, pin it to your top bar to save time.
+
+Please only use this to skip videos you already know, if you skip a video with actual new stuff, you're going to just get completely lost.
+
+This only skips the lesson videos, and not the questions afterward. Don't even try to skip those.
